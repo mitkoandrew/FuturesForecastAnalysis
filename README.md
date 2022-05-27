@@ -1,15 +1,6 @@
 # FuturesForecastAnalysis
-Futures Forecast Analysis is a part of my bigger project **Futures Price Prediction**.
-The entire project helps the client make a decision about operations in the stock market: Buy / Sell or do nothing with the selected stock or futures.
-It includes three parts:
-
--Forecast algorythm
-
--Analysis part (FuturesForecastAnalysis)
-
--Trading system
-
-The first two parts were implemented in .NET, the third part - in Python.
+Futures Forecast Analysis is a part of my bigger project **Futures Price Prediction**:
+https://github.com/mitkoandrew/mitkoandrew/tree/main
 
 I realised to show this project just to demonstrate some of my skills in .NET (MVVM, creating UI in WPF, working with xml)
 
